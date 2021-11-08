@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/manOnComputer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img ref="" src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# Hi there, I'm Jonatas Araripe <img src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/gifs/Hi.gif" width="30px"> 
+# Hi there, I'm Jonatas <img src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/gifs/Hi.gif" width="30px"> 
 
 <p font-size="16px">I'm a developer and an eternal student.</p>
 
@@ -8,13 +8,12 @@
 
 ### Front-end
 
-<img alt="Visual Studio Code" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="HTML5" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="JavaScript" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="Type" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt="Vue.js" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img alt="Svelte" align="left" width="26px" src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/svelte.png" />
+<img alt="Svelte" align="left" width="21px" src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/svelte.png" />
 
 
 <br />
@@ -34,7 +33,9 @@
 
 <img alt="GitHub" align="left" width="26px" src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/github.png" />
 
+<a href="https://gitlab.com/JhonMart" alt="GitLab" title="GitLab">
 <img alt="GitLab" align="left" width="26px" src="https://raw.githubusercontent.com/jhonmart/jhonmart/master/image/gitlab.png" />
+</a>
 
 <br/>
 
@@ -67,3 +68,6 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/jonatas-araripe" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Jonatas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-araripe" /></a>
+
+<a href="https://www.sololearn.com/profile/2335224/" alt="SoloLearn" title="SoloLearn">
+<img src="https://img.shields.io/badge/-Jonatas-green?style=social&logo=sololearn&logoColor=purple&link=https://www.sololearn.com/profile/2335224/" /></a>
